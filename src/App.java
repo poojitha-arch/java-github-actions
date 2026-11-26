@@ -25,7 +25,7 @@ public class App {
     public static double calculateDiscount(int amount) {
 
         if (amount > 1000) {
-            return amount * 0.10;
+            return amount * 0.20;
         } else {
             return amount * 0.10;
         }
